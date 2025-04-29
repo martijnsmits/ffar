@@ -12,7 +12,6 @@ pip install ff-adaptive
 ```bash
 import pyterrier as pt
 from pyterrier_adaptive import CorpusGraph
-from pyterrier_pisa import PisaIndex
 
 from ff_adaptive import FFAdaptive
 
